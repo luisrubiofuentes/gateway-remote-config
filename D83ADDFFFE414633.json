@@ -1,0 +1,18 @@
+{
+   "gateway_conf": {
+     "gateway_ID": "D83ADDFFFE414633",
+     "servers": [
+       {
+         "server_address": "lrf.eu2.cloud.thethings.industries",
+         "serv_port_up": 1700,
+         "serv_port_down": 1700,
+         "serv_enabled": true
+       }
+     ],
+     "ref_latitude": 40.43767,
+     "ref_longitude": -3.711488,
+     "ref_altitude": 400,
+     "contact_email": "luisillo9991@gmail.com",
+     "description": "Homemade indoor gateway with ic880a and RPI4"
+   }
+ }
