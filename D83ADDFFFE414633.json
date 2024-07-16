@@ -3,7 +3,7 @@
      "gateway_ID": "D83ADDFFFE414633",
      "servers": [
        {
-         "server_address": "lrf.eu2.cloud.thethings.industries",
+         "server_address": "lrf.eu1.cloud.thethings.industries",
          "serv_port_up": 1700,
          "serv_port_down": 1700,
          "serv_enabled": true
